@@ -479,8 +479,10 @@ a:hover {
   padding-top: 5rem;
   padding-bottom: 5rem;
   padding-left: 5rem;
+  padding-right: 5rem;
   background-image: url(../bahan/img/9.jpg);
   height: fit-content;
+  width: 100%;
 }
 .contact .info-box {
   color: #000000;
