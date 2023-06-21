@@ -7,7 +7,7 @@ var $jscomp$this = this;
   "function" === typeof define && define.amd ? define([], p) : "object" === typeof module && module.exports ? (module.exports = p()) : (v.anime = p());
 })(this, function () {
   function v(a) {
-    if (!g.col(a))
+    if (!g.col(a)) 
       try {
         return document.querySelectorAll(a);
       } catch (b) {}
